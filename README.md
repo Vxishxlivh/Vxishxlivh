@@ -3,7 +3,8 @@
 # Hey, I'm Vaishali Hireraddi 👋
 
 ### Data Analytics | MSBA '26 @ UC Davis GSM · San Francisco, CA
-*Turning messy data into clear stories — and occasionally making reels about it* 🎬
+*Turning messy (chaos) data into clear stories — and occasionally making reels about it* 🎬
+Trauma is my style
 
 <br/>
 
@@ -19,7 +20,7 @@
 
 ## ✨ About Me
 
-I'm **Vaishali** — a data analytics enthusiast and fresh content creator based in **San Francisco**. Currently pursuing my **Master's in Business Analytics at UC Davis**, I love digging into data, building dashboards, and making insights feel accessible to everyone.
+I'm **Vaishali** , a data analytics enthusiast and fresh content creator based in **San Francisco**. Currently pursuing my **Master's in Business Analytics at UC Davis**, I love digging into data, building dashboards, and making insights feel accessible to everyone.
 
 - 📊 Currently working with **YMCA of Greater Charlotte** on a churn prediction framework as part of my UC Davis practicum
 - 🎬 Recently started creating content on **Instagram** — documenting life, data, and everything in between
