@@ -117,6 +117,6 @@ I'm **Vaishali** , a data analytics enthusiast and fresh content creator based i
 
 *Data by day. Content by night. Always curious.* ✨
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Vxishxlivh&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Vxishxlivh&color=blueviolet&style=for-the-badge)
 
 </div>
