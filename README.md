@@ -76,7 +76,7 @@ I'm **Vaishali** , a data analytics enthusiast and fresh content creator based i
 |---------|-------------|-------|
 | 🔐 **Trust Layer Analytics** ⚙️ *In Progress* | End-to-end pipeline that detects bias & fairness issues in ML models, monitors data quality, and analyzes user trust signals — from raw data ingestion to actionable output | `Python` `LLMs` `AI` |
 | 🚀 **[Galactic Todo List](https://github.com/Vxishxlivh/galactic-todo-list)** | Beginner-friendly to-do web app built for a Git & GitHub workshop. Add, edit, delete tasks with due dates, categories & priorities. Auto-saves in browser — no install needed! | `HTML` `CSS` `JavaScript` `localStorage` |
-| 🧠  **[Skull Fracture Detection & 3D Reconstruction]( https://github.com/Vxishxlivh/Novel-Methods-For-Skull-Fracture-Detection-and-It-s-3D-Reconstruction)** YOLO-based CNN achieving **95%+ accuracy** for fracture localization; built 3D reconstruction pipeline from CT/DICOM data | `Python` `YOLO` `CNN` `DICOM` |
+| 🧠  **[Skull Fracture Detection & 3D Reconstruction]( https://github.com/Vxishxlivh/Novel-Methods-For-Skull-Fracture-Detection-and-It-s-3D-Reconstruction)** | YOLO-based CNN achieving **95%+ accuracy** for fracture localization; built 3D reconstruction pipeline from CT/DICOM data | `Python` `YOLO` `CNN` `DICOM` |
 | 🏃 **Fitbit User Data Analysis** | Consolidated 18 raw datasets into 6 analysis-ready tables; Tableau dashboard with 7 views & 6 KPIs | `Python` `Pandas` `Tableau` `Jupyter` |
  
 ---
