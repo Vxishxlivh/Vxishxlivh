@@ -69,6 +69,14 @@ I'm **Vaishali** , a data analytics enthusiast and fresh content creator based i
 </details>
 
 ---
+ 
+## 🗞️ Recent Updates
+ 
+| Date | Milestone |
+|------|-----------|
+| 🏆 **2025** | **1st Place — BlackBox Hackathon** · Led team *Data Gamblers* to the top of the final leaderboard in a 24-hour AI challenge. Built a model to predict human responses to unseen questions — achieving **65.6% accuracy** and **0.1661 correlation**. A hands-on deep-dive into behavioral modeling, AI foundations, and rapid problem solving under pressure. |
+
+---
 
 ## 🚀 Projects
 
