@@ -4,7 +4,7 @@
 
 ### Data Analytics | MSBA '26 @ UC Davis GSM · San Francisco, CA
 *Turning messy (chaos) data into clear stories — and occasionally making reels about it* 🎬
-Trauma is my style
+
 
 <br/>
 
