@@ -44,6 +44,7 @@ Built a credit card fraud detection model on 284K+ transactions using Scikit-lea
 |---------|-------|
 | **[Credit Intelligence Platform](https://github.com/Vxishxlivh/credit-intelligence-platform)** — Credit scoring, pricing exception detection, RAG over SEC 10-K filings, AI-generated credit memos | `Python` `PostgreSQL` `LangChain` `RAG` `Streamlit` |
 | **[Supply Chain Intelligence System](https://github.com/Vxishxlivh/supply-chain-intelligence-system)** — Control tower on 100K+ orders; demand forecasting, KPI tracking, stockout detection · [Live Dashboard](https://public.tableau.com/app/profile/vaishali.hireraddi/viz/Supply-Chain-Intelligence-System/MonthlyOTR) | `Python` `SQL` `Tableau` `XGBoost` `Prophet` |
+| **[Online Shoppers Purchase Intent Prediction](https://github.com/Vxishxlivh/online-shoppers-purchase-prediction)** — ML classifier on 12K+ sessions predicting buyer intent; EDA, feature engineering, threshold tuning & customer segmentation · AUC 0.93 | `Python` `Scikit-learn` `Pandas` `Seaborn` |
 | **Trust Layer Analytics** — Bias & fairness detection pipeline for ML models with data quality monitoring | `Python` `LLMs` |
 | **[Skull Fracture Detection](https://github.com/Vxishxlivh/Novel-Methods-For-Skull-Fracture-Detection-and-It-s-3D-Reconstruction)** — YOLO-based CNN achieving 95%+ accuracy; 3D reconstruction from CT/DICOM data | `Python` `YOLO` `CNN` |
 
