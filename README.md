@@ -28,13 +28,17 @@ Currently working with **YMCA of Greater Charlotte** on a member churn predictio
 ## Experience
 
 **Data Analytics Consultant** · YMCA of Greater Charlotte *(UC Davis Practicum)* `Aug 2025–Present`  
-Built a predictive churn framework using SQL and statistical modeling; identified key engagement drivers to guide retention strategy.
+●	Translated business retention objectives into a Logistic Regression churn model (LASSO regularization, 70/30 split, cross-validation) targeting 30/60/90-day cancellations across 17,500+ members; projected 10–15% reduction in monthly churn and recovery of almost $260K in annual at-risk revenue.
+●	Gathered and synthesized stakeholder requirements across 3 branch operations teams to engineer behavioral risk features (visit recency, frequency, payment consistency, tenure), delivering a three-tier segmentation framework (High/Medium/Low) and projecting 30–40% improvement in outreach-to-save conversion.
+●	Developed a pilot cost-benefit decision matrix and business case for leadership, projecting 136–245% 90-day ROI on a $30,850 investment, 234% full-year deployment ROI, and almost 3.6-month payback period — enabling data-driven budget approval from non-profit executive stakeholders. 
 
-**Data Analytics Intern** · PrepInsta (EdTech) `Jan–Apr 2024`  
-Analyzed 18+ datasets using Python and Excel; designed Tableau dashboards for stakeholder decision-making.
+**Junior Data Analyst** · PrepInsta (EdTech) `Apr 2024-May 2025`  
+●	Engineered a student churn prediction model using Python (Scikit-Learn) and SQL to analyze 1M+ engagement records; identified high-risk learners with 85% accuracy and enabled targeted interventions that boosted term-to-term retention by 12%.
+●	Architected automated performance trackers in Tableau to monitor curriculum efficacy across 18+ course datasets; identified content bottlenecks through behavioral trend analysis, improving average student assessment scores by 18% through data-driven syllabus adjustments.
 
-**Software Engineering Intern** · TechFortune Technologies `Jun–Sep 2023`  
-Built a credit card fraud detection model on 284K+ transactions using Scikit-learn — 93.8% classification accuracy.
+**Data Anlayst** · TechFortune Technologies `Jun 2023–March2024`  
+●	Developed a fraud detection classifier using Python and SQL on a 284K+ transaction dataset; achieved 93.8% prediction accuracy and automated anomaly flagging to reduce financial exposure for the risk department.
+●	Engineered 12 behavioral features—including time-series patterns and amount distributions—using Python (Pandas); increased model precision by 15% and successfully aligned technical outputs with established operational risk thresholds.
 
 ---
 
