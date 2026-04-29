@@ -28,17 +28,16 @@ Currently working with **YMCA of Greater Charlotte** on a member churn predictio
 ## Experience
 
 **Data Analytics Consultant** · YMCA of Greater Charlotte *(UC Davis Practicum)* `Aug 2025 – Present`
-- Translated business retention objectives into a Logistic Regression churn model (LASSO regularization, 70/30 split, cross-validation) targeting 30/60/90-day cancellations across 17,500+ members; projected 10–15% reduction in monthly churn and recovery of nearly $260K in annual at-risk revenue.
-- Gathered and synthesized stakeholder requirements across 3 branch operations teams to engineer behavioral risk features (visit recency, frequency, payment consistency, tenure), delivering a three-tier segmentation framework (High/Medium/Low) and projecting 30–40% improvement in outreach-to-save conversion.
-- Developed a pilot cost-benefit decision matrix and business case for leadership, projecting 136–245% 90-day ROI on a $30,850 investment, 234% full-year deployment ROI, and a ~3.6-month payback period — enabling data-driven budget approval from non-profit executive stakeholders.
+- Built a Logistic Regression churn model (LASSO, cross-validated) across 17,500+ members targeting 30/60/90-day cancellations — projecting 10–15% churn reduction and ~$260K in recovered annual revenue.
+- Engineered behavioral risk features and a 3-tier segmentation framework; delivered a cost-benefit business case projecting 234% full-year ROI on a $30,850 investment with a ~3.6-month payback.
 
 **Junior Data Analyst** · PrepInsta (EdTech) `Apr 2024 – May 2025`
-- Engineered a student churn prediction model using Python (Scikit-Learn) and SQL to analyze 1M+ engagement records; identified high-risk learners with 85% accuracy and enabled targeted interventions that boosted term-to-term retention by 12%.
-- Architected automated performance trackers in Tableau to monitor curriculum efficacy across 18+ course datasets; identified content bottlenecks through behavioral trend analysis, improving average student assessment scores by 18% through data-driven syllabus adjustments.
+- Built a student churn model in Python/SQL on 1M+ engagement records — 85% accuracy, lifting term-to-term retention by 12%.
+- Architected Tableau performance trackers across 18+ course datasets; surfaced content bottlenecks that drove an 18% lift in assessment scores.
 
 **Data Analyst** · TechFortune Technologies `Jun 2023 – Mar 2024`
-- Developed a fraud detection classifier using Python and SQL on a 284K+ transaction dataset; achieved 93.8% prediction accuracy and automated anomaly flagging to reduce financial exposure for the risk department.
-- Engineered 12 behavioral features — including time-series patterns and amount distributions — using Python (Pandas); increased model precision by 15% and successfully aligned technical outputs with established operational risk thresholds.
+- Developed a fraud detection classifier on 284K+ transactions (93.8% accuracy), automating anomaly flagging for the risk team.
+- Engineered 12 behavioral features in Pandas (time-series patterns, amount distributions), boosting model precision by 15%.
 
 ---
 
